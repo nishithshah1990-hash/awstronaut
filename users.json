@@ -368,4 +368,18 @@
     "website": "https://aws.amazon.com/developer/community/heroes/shaoyi-li/?did=dh_card&trk=dh_card",
     "avatar": "/avatars/shaoyi-li.png"
   }
+    {
+    "name": "Nishith Shah",
+    "github": "nishithshah1990-hash",
+    "certs": [
+      "awstronaut"
+    ],
+    "city": "New York",
+    "country": "USA",
+    "date": "2025-01-13",
+    "bio": "DevOps/Delivery Lead Manager @ Accenture, 14x AWS",
+    "linkedin": "nishithshah90",
+    "website": "",
+    "avatar": "/avatars/Nishith.png"
+  }
 ]
